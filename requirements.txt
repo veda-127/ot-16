@@ -1,0 +1,10 @@
+Flask
+selenium
+webdriver-manager
+pandas
+numpy
+gensim
+nltk
+matplotlib
+seaborn
+pyLDAvis
